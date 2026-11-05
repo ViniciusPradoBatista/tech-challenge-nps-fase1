@@ -1,6 +1,8 @@
 # Apresentação — storytelling gerencial
 
-Slides para público não técnico (gestores e stakeholders): `apresentacao_nps.pdf`.
+Slides para público não técnico (gestores e stakeholders): [`apresentacao_nps.pdf`](apresentacao_nps.pdf).
+
+Vídeo executivo: https://youtu.be/0p29WJZwy-g
 
 Estrutura (15 slides):
 1. Capa

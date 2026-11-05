@@ -3,8 +3,10 @@
 Análise de dados e modelo preditivo para entender **o que gera insatisfação** nos clientes de um e-commerce e **antecipar o NPS antes da pesquisa**.
 
 > **Autor:** Vinícius Prado Batista — RM 378749
-> **Vídeo executivo:** `<LINK DO VÍDEO>`
-> **Apresentação:** [`reports/apresentacao/`](reports/apresentacao/)
+>
+> **Vídeo executivo:** https://youtu.be/0p29WJZwy-g
+>
+> **Apresentação (PDF):** [`reports/apresentacao/apresentacao_nps.pdf`](reports/apresentacao/apresentacao_nps.pdf)
 
 ---
 
@@ -104,7 +106,7 @@ Pré-requisito: Python 3.10 ou superior.
 
 ```bash
 # 1. Clonar o repositório
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/ViniciusPradoBatista/tech-challenge-nps-fase1.git
 cd tech-challenge-nps-fase1
 
 # 2. Criar e ativar um ambiente virtual
